@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Sushanth Shetty! 👋<br><br>- 🎓 Final year Computer Engineering student at AMC Engineering College<br>- 💻 Currently working on Web Applications<br>- 🎮 E-sports enthusiast and avid BGMI player<br>- 🚀 Proficient in Java, JavaScript, React, Figma<br>- 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/sushanthshetty11/) - [Instagram](https://www.instagram.com/sushanth.shettyy/)<br>- ✨ Fun fact: I once fixed a bug by simply staring at the code—debugging through intimidation!<br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushanthshetty11/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/sushanth.shettyy/)
 
